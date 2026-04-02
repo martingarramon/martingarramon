@@ -1,28 +1,30 @@
 # Martin Garramon
 
-AI automation engineer. I build Python pipelines, AI agent workflows, and BIM tools with Claude Code as my primary development environment.
+AI engineer building LLM agent systems. I work in Python and TypeScript with Claude Code as my primary development environment.
+
+## Contributing to OpenClaw
+
+Active contributor to [OpenClaw](https://github.com/openclaw/openclaw) — the open-source AI coding agent.
+
+- Bug fixes in exec tool error handling, doctor CLI repair flow
+- Test coverage for approval logic, gateway status, config sessions
+- Issue triage across cron scheduling, exec approvals, model selection
+- Code reviews on config deduplication, session spawning, approval payloads
 
 ## What I build
 
-**AI Automation** — Production pipelines that connect APIs, add LLM intelligence, and run without babysitting. REST APIs, webhooks, batch processors, Claude/GPT/Gemini orchestration.
+**AI Agent Systems** — Multi-agent orchestration, tool-calling pipelines, routing classifiers, and evaluation frameworks. Production systems with automated testing, drift detection, and health monitoring.
 
-**BIM Tools** — Clash detection, model auditing, and quantity takeoffs for the construction industry. A 193MB building model goes in, graded reports and Excel deliverables come out in five minutes.
-
-**Claude Code Skills** — Structured knowledge systems that load into Claude Code's context. My sales skill is 1,200 lines across 6 files and handles proposals, pricing, content creation, and outcome tracking.
+**Claude Code Architecture** — Structured knowledge systems (Skills, Memory, CLAUDE.md) that give Claude Code deep project context. My [starter kit](https://github.com/martingarramon/claude-code-starter-kit) extracts the patterns I use daily.
 
 ## Tech
 
-Python · Flask · Node.js · Docker · PostgreSQL · Playwright · IfcOpenShell · Claude Code · Claude API · MCP
+Python · TypeScript · Claude Code · Claude API · MCP · Playwright · PostgreSQL · Cloudflare Workers
 
 ## Writing
 
-I write about building with Claude Code on Medium — skills architecture, CLAUDE.md best practices, memory management, and running a business on AI tooling.
-
-- [Medium](https://medium.com/@martin_50671)
-- [LinkedIn](https://linkedin.com/in/martin-garramon)
+I write about building with Claude Code on [Medium](https://medium.com/@martin_50671) — skills architecture, CLAUDE.md best practices, and memory management.
 
 ## Contact
 
-martin@yulicreative.ai · [yulicreative.ai](https://yulicreative.ai)
-
-Open to consulting engagements — AI automation, API integration, BIM pipeline development.
+martin@yulicreative.ai · [LinkedIn](https://linkedin.com/in/martin-garramon) · [yulicreative.ai](https://yulicreative.ai)
